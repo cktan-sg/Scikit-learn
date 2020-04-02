@@ -1,2 +1,2 @@
 # Scikit-learn
-## An example using sckit-learn on wine
+## An example using sckit-learn classifiers on wine
